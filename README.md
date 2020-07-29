@@ -1,3 +1,4 @@
+[![bg][banner]][website]
 ### Hi there 👋
 
 <!--
@@ -15,7 +16,7 @@ Languages : C , C++ , Java , HTML , Oracle , Sql
 
 * 🌱 I’m currently learning Machine Learning
 
-<!--[![bg][banner]][website] --> 
+
 
 🏡 [website][website] **|**    
 👔 [linkedin][linkedin]
