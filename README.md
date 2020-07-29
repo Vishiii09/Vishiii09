@@ -21,6 +21,5 @@ Languages : C , C++ , Java , HTML , Oracle , Sql
 🏡 [website][website] **|**    
 👔 [linkedin][linkedin]
 
-<--[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png -->
 [website]: https://vishiii09.github.io/
 [linkedin]: https://www.linkedin.com/in/vishiii09/
