@@ -21,6 +21,7 @@ Languages : C , C++ , Java , HTML , Oracle , Sql
 
 🏡 [website][website]    
 👔 [linkedin][linkedin]
-[banner]: https://raw.githubusercontent.com/Vishiii09/Vishiii09/master/OIP(1).jpg
+
+[banner]: https://raw.githubusercontent.com/Vishiii09/Vishiii09/master/OIP (1).jpg
 [website]: https://vishiii09.github.io/
 [linkedin]: https://www.linkedin.com/in/vishiii09/
