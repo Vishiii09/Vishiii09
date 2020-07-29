@@ -15,8 +15,7 @@ Languages : C , C++ , Java , HTML , Oracle , Sql
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
-Shoutout to [Brad Garropy][brad] for the inspiration!
 
 [website]: https://Vishiii09.github.io
 [linkedin]: https://linkedin.com/in/vishiii09
-[banner]: https://raw.githubusercontent.com/Vishiii09/Vishiii09/master/OIP (1).jpg
+[banner]: https://Vishiii09/Vishiii09/master/OIP (1).jpg
