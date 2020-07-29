@@ -1,10 +1,6 @@
 [![bg][banner]]
 
 ### Hi there 👋
-
-<!--
-**Vishiii09/Vishiii09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 I am MCA second-year student at Maulana Azad National institute of technology.
 I am a hardworking person & a quick learner. I believe in developing practical skills and very keen towards working in IT field.
 
@@ -16,11 +12,11 @@ Languages : C , C++ , Java , HTML , Oracle , Sql
 
 * 🌱 I’m currently learning Machine Learning
 
-
-
-🏡 [website][website]    
+🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
+Shoutout to [Brad Garropy][brad] for the inspiration!
+
+[website]: https://Vishiii09.github.io
+[linkedin]: https://linkedin.com/in/vishiii09
 [banner]: https://raw.githubusercontent.com/Vishiii09/Vishiii09/master/OIP (1).jpg
-[website]: https://vishiii09.github.io/
-[linkedin]: https://www.linkedin.com/in/vishiii09/
