@@ -1,4 +1,4 @@
-[![bg][banner]][website]
+[![][banner]][website]
 
 ### Hi there 👋
 I am MCA second-year student at Maulana Azad National institute of technology.
