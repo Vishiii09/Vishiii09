@@ -1,4 +1,4 @@
-[![](Screenshot(107).png)
+![](Screenshot(107).png)
 
 ### Hi there 👋
 I am MCA second-year student at Maulana Azad National institute of technology.
