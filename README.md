@@ -1,4 +1,4 @@
-[![bg][banner]][website]
+[![bg][banner]]
 
 ### Hi there 👋
 
@@ -13,7 +13,6 @@ Browse my site to see all that I have to offer
 
 Some of My Key skills : Data Structure & Algorithms , Version Control on git , DBMS
 Languages : C , C++ , Java , HTML , Oracle , Sql
-
 
 * 🌱 I’m currently learning Machine Learning
 
