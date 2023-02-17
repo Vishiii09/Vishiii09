@@ -1,15 +1,11 @@
 ### Hi there 👋
-I am MCA second-year student at Maulana Azad National institute of technology.
-I am a hardworking person & a quick learner. I believe in developing practical skills and very keen towards working in IT field.
+I am working as Software Engineer-I at FICO.
 
-Browse my site to see all that I have to offer
+Skilled DevOps Engineer with 2+ years of hands-on experience supporting, automating, CI/CD automation, and DevOps processes.
 
-
-Some of My Key skills : Data Structure & Algorithms , Version Control on git , DBMS
-
-Languages : C , C++ , Java , HTML , Oracle , Sql
-
-* 🌱 I’m currently learning Machine Learning
+Some of My Key skills : 
+Front-end Technologies: HTML, CSS, JavaScript
+Programming Languages: Python
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
